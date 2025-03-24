@@ -1,0 +1,7 @@
+pwntools
+Flask
+Flask-Session
+openai
+flask-socketio
+eventlet
+python-dotenv
